@@ -1,0 +1,23 @@
+body{
+    background-color: pink;
+}
+hr{
+    border-color: white !important;
+}
+
+#IR{
+    font-size: x-large;
+    width: 80%;
+    background-color: rgb(236, 241, 129);
+}
+
+h4{
+    color: blue;
+}
+
+#output,#camera{
+    border: dashed;
+    border-color: white;
+    width: 450px !important;
+    height: 310px !important;
+}
